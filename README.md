@@ -19,4 +19,4 @@ BACK END: PHP
 DATABASE: MySQL
 
 The Website is Hosted at 000webhost.
-https://sanjiinternship.000webhostapp.com/
+https://aditi-singh.000webhostapp.com/
